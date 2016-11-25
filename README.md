@@ -21,7 +21,4 @@ grammar_cjkRuby: true
 * 动态图表采用JFreeChart.jar
 * 考虑到部分开发者没有节点设备，端口数据用Thread生成数据进行模拟。真实中是解析利用端口捕获到数据。
 
-![enter description here][1]
-
-
-  [1]: ./images/%E5%86%9C%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7.PNG "农业信息实时监控.PNG"
+![农业信息实时监控](https://github.com/a2open/Agricultural-Info/blob/master/screenshots/%E5%86%9C%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7.PNG)
